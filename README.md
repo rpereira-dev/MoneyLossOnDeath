@@ -1,0 +1,2 @@
+# MoneyLossOnDeath
+sundaycraft plugin
