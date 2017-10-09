@@ -1,0 +1,21 @@
+# Mondes actifs
+
+worlds:
+  - world
+
+# Chances
+# (format : [% min],[% max],[% d'argent perdu]
+
+chances:
+  - 1,20,50
+  - 21,45,30
+  - 46,95,20
+  - 96,100,0
+
+# La perte s'effectuera pour les joueurs ayant au minimum cet argent
+
+min: 1000
+
+# Message
+
+text: '§cTu as perdu $MONEY en te faisant tuer !'
